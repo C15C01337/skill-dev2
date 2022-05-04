@@ -1,6 +1,6 @@
 git init
 git config --global user.name "Bishal Aryal"
-git config --global user.email "bishal.dmarketer@gmail.com"
+git config --global user.email "easteregg@gmail.com"
 git add .
 git commit -m "$1"
 git branch -M main
